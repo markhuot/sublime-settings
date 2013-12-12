@@ -1,8 +1,9 @@
 {
 	"": "",
 	"bold_folder_labels": true,
+	"caret_extra_width": 1,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"color_scheme": "Packages/Dayle Rees Color Schemes/Earthsong.tmTheme",
 	"create_window_at_startup": false,
 	"draw_indent_guides": false,
 	"draw_minimap_border": true,
@@ -14,9 +15,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"INI",
-		"PHP-Twig"
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -34,8 +33,9 @@
 	"scroll_past_end": true,
 	"spell_check": true,
 	"tab_size": 2,
-	"theme": "Flatland Dark.sublime-theme",
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
 	"use_simple_full_screen": true,
 	"word_wrap": false,
 	"wrap_width": 80
